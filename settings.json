@@ -1,0 +1,12 @@
+{
+    "workbench.sideBar.location": "left",
+
+    // 末尾改行
+    "files.insertFinalNewline": true,
+
+    // 末尾に無駄な改行があれば削除
+    "files.trimFinalNewlines": true,
+
+    // for R extention
+    "r.rterm.windows": "C:\\Program Files\\R\\R-3.5.1\\bin\\x64\\R.exe"
+}
