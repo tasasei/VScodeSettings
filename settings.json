@@ -8,5 +8,11 @@
     "files.trimFinalNewlines": true,
 
     // for R extention
-    "r.rterm.windows": "C:\\Program Files\\R\\R-3.5.1\\bin\\x64\\R.exe"
+    "r.rterm.windows": "C:\\Program Files\\R\\R-3.5.1\\bin\\x64\\R.exe",
+
+    // .txt
+    "[plaintext]": {
+        // disable suggestion
+        "editor.wordBasedSuggestions": false        
+    }
 }
